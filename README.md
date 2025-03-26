@@ -22,7 +22,9 @@ A modern, open-source utility for quickly sharing files between devices using QR
 ### Installation
 
 #### Windows
-1. Download and extract the zip file
+1. To get the software, please send an email with your request: deepanshus1996@gmail.com
+    (Because file size is bigger, so I can't upload the .exe here!!!)
+2. Download and extract the zip file
 3. Launch `QR File Share.exe`
 
 ## 📖 How to Use
