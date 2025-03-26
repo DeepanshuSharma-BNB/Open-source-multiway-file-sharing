@@ -2,8 +2,6 @@
 
 A modern, open-source utility for quickly sharing files between devices using QR codes. Easily transfer files across devices without the need for cloud services, accounts, or complicated setup.
 
-![QR File Share Logo](mainwindow.png)
-
 ## ✨ Features
 
 - **Multi-File Sharing**: Select and share multiple files simultaneously
@@ -17,47 +15,15 @@ A modern, open-source utility for quickly sharing files between devices using QR
 
 ## 📷 Screenshots
 
-*[Add screenshots of your application here]*
+![QR File Share Logo](mainwindow.png)
 
 ## 🚀 Getting Started
 
 ### Installation
 
 #### Windows
-1. Download the latest release from the [Releases](https://github.com/yourusername/qr-file-share/releases) page
-2. Run the installer or extract the zip file
+1. Download and extract the zip file
 3. Launch `QR File Share.exe`
-
-#### macOS and Linux
-1. Make sure Python 3.6+ is installed
-2. Install the required packages:
-   ```
-   pip install qrcode[pil] pillow tk
-   ```
-3. Download the source code
-4. Run `python qr-file-share-enhanced.py`
-
-### Building from Source
-
-To build the executable from source:
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/qr-file-share.git
-   cd qr-file-share
-   ```
-
-2. Install required packages:
-   ```
-   pip install qrcode[pil] pillow tk pyinstaller
-   ```
-
-3. Build with PyInstaller:
-   ```
-   pyinstaller --onefile --windowed --icon=icon.ico --name="QR File Share" --add-data="icon.ico;." --clean qr-file-share-enhanced.py
-   ```
-
-4. The executable will be created in the `dist` folder
 
 ## 📖 How to Use
 
@@ -92,8 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👏 Credits
 
 - **Creator**: © Deepanshu Sharma, 2025
-- **Icons**: Included file type icons are from various open source projects
-- **QR Code Generation**: Uses the [python-qrcode](https://github.com/lincolnloop/python-qrcode) library
 
 ## 🤝 Contributing
 
